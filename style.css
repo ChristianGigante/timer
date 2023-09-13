@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  height: 100vh; /* Adjust the height as needed */
+}
+
+h1 {
+  text-align: center; /* Center the text horizontally within the h1 element */
+}
